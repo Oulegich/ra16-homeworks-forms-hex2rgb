@@ -1,9 +1,9 @@
 Конвертер цветов из HEX в RGB
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/bq6c56kjnbm30o8l?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-forms-hex2rgb)
 
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-forms-hex2rgb/)
 
 Вам необходимо разработать конвертер цветов из HEX в RGB.
 
