@@ -1,0 +1,40 @@
+.hex-2-rgb {
+    position: relative;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.background {
+    height: 100%;
+    z-index: -10;
+    width: 100%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+
+.input-view-color {
+    display: flex;
+    flex-direction: column;
+    max-width: 300px;
+    width: 100%;
+}
+
+.input-color {
+    height: 50px;
+    font-size: 1.4rem;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.rgb-text {
+    height: 50px;
+    background-color: rgba(36, 33, 33, 0.574);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color:  white;
+    font-size: 1.2rem;
+}
